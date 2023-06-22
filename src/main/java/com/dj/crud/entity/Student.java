@@ -1,4 +1,4 @@
-package entity;
+package com.dj.crud.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
